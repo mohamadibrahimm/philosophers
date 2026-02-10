@@ -18,4 +18,4 @@ POSIX Threads: https://man7.org/linux/man-pages/man7/pthreads.7.html
 
 Use of AI
 
-AI was used to understand concurrency concepts, debug synchronization issues, and assist with
+AI was used to understand concurrency concepts, debug synchronization issues.
